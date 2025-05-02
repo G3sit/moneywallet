@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone" >
-
+<!--
         <com.oriondev.moneywallet.ui.view.theme.ThemedTextView
             android:id="@+id/pin_help_text_view"
             android:layout_width="match_parent"
@@ -62,7 +62,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:keypadTextSize="@dimen/activity_lock_pin_lock_view_text_size"
-            app:theme_backgroundColor="colorPrimary" />
+            app:theme_backgroundColor="colorPrimary" />-->
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -71,7 +71,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone" >
-
+<!--
         <com.oriondev.moneywallet.ui.view.theme.ThemedTextView
             android:id="@+id/sequence_help_text_view"
             android:layout_width="match_parent"
@@ -92,7 +92,7 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
-            app:theme_backgroundColor="colorPrimary" />
+            app:theme_backgroundColor="colorPrimary" />-->
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
